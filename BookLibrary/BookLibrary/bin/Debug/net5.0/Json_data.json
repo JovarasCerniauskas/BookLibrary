@@ -1,0 +1,122 @@
+[
+  {
+    "ISBN": "9781593275846",
+    "Name": "Eloquent JavaScript, Second Edition",
+    "Author": "Marijn Haverbeke",
+    "PublicationDate": "2014-12-14T00:00:00",
+    "Language": "English",
+    "Category": "Horror, Thriller",
+    "Istaken": false,
+    "ReturnDate": null,
+    "TakenContactName": null,
+    "TakenDate": null
+  },
+  {
+    "ISBN": "9781449331818",
+    "Name": "Learning JavaScript Design Patterns",
+    "Author": "Addy Osmani",
+    "PublicationDate": "2012-07-01T00:00:00",
+    "Language": "English",
+    "Category": "Romance",
+    "Istaken": false,
+    "ReturnDate": null,
+    "TakenContactName": null,
+    "TakenDate": null
+  },
+  {
+    "ISBN": "9781449365035",
+    "Name": "Speaking JavaScript",
+    "Author": "Axel Rauschmayer",
+    "PublicationDate": "2014-02-01T00:00:00",
+    "Language": "Russian",
+    "Category": "Cooking",
+    "Istaken": false,
+    "ReturnDate": null,
+    "TakenContactName": null,
+    "TakenDate": null
+  },
+  {
+    "ISBN": "9781491950296",
+    "Name": "Programming JavaScript Applications",
+    "Author": "Eric Elliott",
+    "PublicationDate": "2014-07-01T00:00:00Z",
+    "Language": "Polish",
+    "Category": "Humor",
+    "Istaken": false,
+    "ReturnDate": null,
+    "TakenContactName": null,
+    "TakenDate": null
+  },
+  {
+    "ISBN": "9781593277574",
+    "Name": "Understanding ECMAScript 6",
+    "Author": "Nicholas C. Zakas",
+    "PublicationDate": "2016-09-03T00:00:00",
+    "Language": "English",
+    "Category": "Art",
+    "Istaken": false,
+    "ReturnDate": null,
+    "TakenContactName": null,
+    "TakenDate": null
+  },
+  {
+    "ISBN": "9781491904244",
+    "Name": "You Don't Know JS",
+    "Author": "Kyle Simpson",
+    "PublicationDate": "2015-12-27T00:00:00",
+    "Language": "Japanase",
+    "Category": "History",
+    "Istaken": false,
+    "ReturnDate": null,
+    "TakenContactName": null,
+    "TakenDate": null
+  },
+  {
+    "ISBN": "9781449325862",
+    "Name": "Git Pocket Guide",
+    "Author": "Richard E. Silverman",
+    "PublicationDate": "2013-08-02T00:00:00",
+    "Language": "Russian",
+    "Category": "Travel",
+    "Istaken": false,
+    "ReturnDate": null,
+    "TakenContactName": null,
+    "TakenDate": null
+  },
+  {
+    "ISBN": "9781449337711",
+    "Name": "Designing Evolvable Web APIs with ASP.NET",
+    "Author": "Glenn Block, et al.",
+    "PublicationDate": "2014-04-07T00:00:00",
+    "Language": "English",
+    "Category": "Guide",
+    "Istaken": false,
+    "ReturnDate": null,
+    "TakenContactName": null,
+    "TakenDate": null
+  },
+  {
+    "ISBN": "123456789",
+    "Name": "1984",
+    "Author": "Goerge Orwell",
+    "PublicationDate": "2021-04-03T14:09:46.7759324+03:00",
+    "Language": "Russian",
+    "Category": "humour",
+    "Istaken": true,
+    "ReturnDate": "2021-05-18T16:39:22.683538+03:00",
+    "TakenContactName": "mom",
+    "TakenDate": "2021-04-03T16:39:22.6838792+03:00"
+  },
+  {
+    "ISBN": "22",
+    "Name": "Atheists guide to religion",
+    "Author": "Jesus Christ",
+    "PublicationDate": "2000-01-01T00:00:00",
+    "Language": "Hebrew",
+    "Category": "Self-help",
+    "Istaken": false,
+    "ReturnDate": null,
+    "TakenContactName": null,
+    "TakenDate": null
+  }
+]
